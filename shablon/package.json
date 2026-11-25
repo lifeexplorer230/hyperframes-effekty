@@ -1,0 +1,10 @@
+{
+  "name": "moy-rolik",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.9.88 preview",
+    "check": "npx --yes hyperframes@0.9.88 check",
+    "render": "npx --yes hyperframes@0.9.88 render . -o render.mp4 --fps 25"
+  }
+}

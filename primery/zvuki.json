@@ -1,0 +1,6 @@
+[
+  {"t": 0.05, "fayl": "sfx/udar.wav", "db": -2},
+  {"t": 3.2, "fayl": "sfx/vzhuh.wav", "db": -3},
+  {"t": 8.5, "fayl": "sfx/pop.wav", "db": 0},
+  {"t": 24.1, "fayl": "sfx/dzyn.wav", "db": -4}
+]
